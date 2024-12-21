@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alerica&show_icons=true&locale=en" alt="alerica" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alerica&" alt="alerica" /></p>
+
+![Demo](https://i.pinimg.com/originals/02/fe/62/02fe627668f0f9b589ad1d3b01ac6000.gif)
+
+"The only way to do great work is to love what you do." – Steve Jobs
