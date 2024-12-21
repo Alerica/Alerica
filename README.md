@@ -3,9 +3,8 @@
 
 ![Demo](https://64.media.tumblr.com/86c13dec7f8bdc6a0fdea4cfb1255a63/tumblr_oxbl59aOqp1rv33k2o9_1280.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alerica&label=Profile%20views&color=0e75b6&style=flat" alt="alerica" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alerica" alt="alerica" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alerica&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 - 🌱 I’m currently learning **game development**
 
