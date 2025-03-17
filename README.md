@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
-![Demo](https://64.media.tumblr.com/86c13dec7f8bdc6a0fdea4cfb1255a63/tumblr_oxbl59aOqp1rv33k2o9_1280.gif)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alerica&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
