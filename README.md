@@ -1,6 +1,38 @@
 <h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Tiny Tower</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Mini Battles</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="gif" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Project Description</td> <!--desc-->
+      <td valign="text-top">Project Description</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Alerica">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://google.com">Read More</a></td> <!--link2-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.youtube.com/watch?">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://www.youtube.com/watch?">Trailer</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alerica&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
