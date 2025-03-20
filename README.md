@@ -18,7 +18,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies.</td> <!--desc-->
+      <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies. The game focuses on fundamental mechanics like object placement, enemy waves, and game balancing. It serves as my learning journey to understand how tower defense games are structured and basic game programming in Unity</td> <!--desc-->
       <td valign="text-top">Project Description</td> <!--desc-->
     </tr>
     <tr>
