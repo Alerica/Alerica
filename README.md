@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Alerica/Alerica/blob/main/Tiny-Tower-Clip.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="gif" alt="2" style="width:100%;height:auto;">
