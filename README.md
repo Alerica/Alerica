@@ -18,7 +18,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Tiny Towers Game is a **Tower Defense** game where players strategically place towers to defend against waves of enemies.</td> <!--desc-->
+      <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies.</td> <!--desc-->
       <td valign="text-top">Project Description</td> <!--desc-->
     </tr>
     <tr>
