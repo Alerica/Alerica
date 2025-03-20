@@ -18,11 +18,11 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">In Tiny Tower As the guardian of a miniature fortress, your mission is to defend against waves of relentless enemies using powerful towers, clever upgrades, and strategic placement.</td> <!--desc-->
+      <td valign="text-top">Tiny Towers Game is a **Tower Defense** game where players strategically place towers to defend against waves of enemies.</td> <!--desc-->
       <td valign="text-top">Project Description</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alerica">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Alerica/Tiny-Towers">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://google.com">Read More</a></td> <!--link2-->
     </tr>
     <tr>
