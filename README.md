@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
+## **Unity Project**
 <table width="100%">
   <thead>
     <tr>
@@ -18,7 +19,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies. The game focuses on fundamental mechanics like object placement, enemy waves, and game balancing. It serves as my learning journey to understand how tower defense games are structured and basic game programming in Unity</td> <!--desc-->
+      <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies. The game focuses on fundamental mechanics like object placement, enemy waves, and game balancing. It serves as my learning journey to understand how tower defense games are structured and basic game programming in Unity.</td> <!--desc-->
       <td valign="text-top">Project Description</td> <!--desc-->
     </tr>
     <tr>
@@ -26,8 +27,8 @@
       <td align="center"><a href="https://google.com">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
+      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
