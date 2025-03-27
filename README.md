@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies. The game focuses on fundamental mechanics like object placement, enemy waves, and game balancing. It serves as my learning journey to understand how tower defense games are structured and basic game programming in Unity.</td> <!--desc-->
-      <td valign="text-top">Bullet Reign is a fast-paced top-down shooter with roguelike elements, where every battle is a fight for survival in a chaotic bullet hell. Built as a personal project to explore and understand Scriptable Objects in Unity. </td> <!--desc-->
+      <td valign="text-top">Bullet Reign is a fast-paced top-down shooter with roguelike elements, where every battle is a fight for survival in a chaotic hell. Built as a personal project to explore and understand Scriptable Objects in Unity. </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Alerica/Tiny-Towers">Read More</a></td> <!--link1-->
