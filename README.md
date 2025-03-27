@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <th width="50%" align="center"><a>Tiny Tower</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Mini Battles</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Bullet Reign</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -15,16 +15,16 @@
         <img src="https://github.com/Alerica/Alerica/blob/main/Tiny-Tower-Clip.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Alerica/Alerica/blob/main/Bullet-Reign-Clip.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Tiny Towers Game is a Tower Defense game where players strategically place towers to defend against waves of enemies. The game focuses on fundamental mechanics like object placement, enemy waves, and game balancing. It serves as my learning journey to understand how tower defense games are structured and basic game programming in Unity.</td> <!--desc-->
-      <td valign="text-top">Project Description</td> <!--desc-->
+      <td valign="text-top">Bullet Reign is a fast-paced top-down shooter with roguelike elements, where every battle is a fight for survival in a chaotic bullet hell. Built as a personal project to explore and understand Scriptable Objects in Unity. </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Alerica/Tiny-Towers">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://google.com">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Alerica/Bullet-Reign">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
