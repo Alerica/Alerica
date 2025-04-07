@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
-
 ## **Unity Project**
 <table width="100%">
   <thead>
@@ -66,8 +65,7 @@
 </table>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alerica&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## About me
 
 - 🌱 I’m currently learning **game development**
 
