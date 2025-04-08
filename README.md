@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <th width="50%" align="center"><a>Through The Woods</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Upcoming</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Doodle Kitchen</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
