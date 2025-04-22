@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link2-->
+      <td align="center"><a href="https://alerica.itch.io/brain-joint">Itch.io</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://alerica.itch.io/doodle-kitchen">Itch</a></td> <!--link2-->
+      <td align="center"><a href="https://alerica.itch.io/doodle-kitchen">Itch.io</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
