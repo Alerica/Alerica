@@ -1,6 +1,39 @@
 <h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
+
+## **Latest Project**
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Reikiban</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Brain Joint</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Alerica/Reikiban-The-DND-Tools/blob/main/Reikiban-Clip.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/Alerica/Brain-Joint/blob/main/Brain%20Joint%20Clip.gif" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Reikiban is a digital sandbox for tabletop-style adventures where players become the Dungeon Master. It includes essential tools like a customizable map, dice roller, random event wheel, and token summoning. Whether playing solo or with friends, Reikiban gives you the freedom to create and manage your own quests, enemies, and scenarios in a flexible, turn-based format. (UNDER DEVELOPMENT)</td> <!--desc-->
+      <td valign="text-top">Brain Joint was made under 48 hours for Micro Jam 38: Zombies. In Brain Joint, you run a cozy little burger joint in the middle of a zombie neighborhood. But don’t worry, these zombies are friendly (and very polite). They’re just a bit... hungry.</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://unity.com/download">Still under development</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Alerica/Brain-Joint">Read More</a></td> <!--link2-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
+      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
+
 ## **Unity Project**
 <table width="100%">
   <thead>
@@ -64,42 +97,12 @@
   </tbody>
 </table>
 
-## **Upcoming**
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a>Reikiban</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Brain Buffets</a></th> <!--tittle-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/Alerica/Reikiban-The-DND-Tools/blob/main/Reikiban-Clip.gif" alt="1" style="width:100%;height:auto;">
-      </td>
-      <td align="center">
-        <img src="https://github.com/Alerica/Reikiban-The-DND-Tools/blob/main/Reikiban-Clip.gif" alt="2" style="width:100%;height:auto;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">Reikiban is a digital sandbox for tabletop-style adventures where players become the Dungeon Master. It includes essential tools like a customizable map, dice roller, random event wheel, and token summoning. Whether playing solo or with friends, Reikiban gives you the freedom to create and manage your own quests, enemies, and scenarios in a flexible, turn-based format. (UNDER DEVELOPMENT)</td> <!--desc-->
-      <td valign="text-top">Upcoming</td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://unity.com/download">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://unity.com/download">Read More</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link2-->
-    </tr>
-  </tbody>
-</table>
+
 
 
 ## About me
 
-- 🌱 I’m currently learning **game development**
+- 🌱 I’m currently learning **game development**, I'm also eager to learn anything.
 
 - 👨‍💻 All of my projects are available at [https://github.com/alerica](https://github.com/alerica)
 
@@ -107,7 +110,6 @@
 
 - 📫 How to reach me **alexander.ricky.b05@gmail.com**
 
-- ⚡ Fun fact **I`m Art Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
