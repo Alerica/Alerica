@@ -25,11 +25,11 @@
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Still under development</a></td> <!--link1-->
-      <td align="center"><a href="https://itch.io/jam/micro-jam-038/results">Top #6 From 39 entries</a></td> <!--link2-->
+      <td align="center"><a href="https://alerica.itch.io/brain-joint">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://alerica.itch.io/brain-joint">Itch.io</a></td> <!--link2-->
+      <td align="center"><a href="https://itch.io/jam/micro-jam-038/results">Itch.io</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
