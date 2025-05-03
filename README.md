@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
-
 ## **Latest Project**
 <table width="100%">
   <thead>
@@ -101,7 +100,6 @@
 
 
 ## About me
-
 - 🌱 I’m currently learning **game development**, I'm also eager to learn anything.
 
 - 👨‍💻 All of my projects are available at [https://github.com/alerica](https://github.com/alerica)
