@@ -101,11 +101,8 @@
 
 ## About me
 - 🌱 I’m currently learning **game development**, I'm also eager to learn anything.
-
 - 👨‍💻 All of my projects are available at [https://github.com/alerica](https://github.com/alerica)
-
 - 💬 Ask me about **Game development, anything**
-
 - 📫 How to reach me **alexander.ricky.b05@gmail.com**
 
 
