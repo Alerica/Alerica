@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Still under development</a></td> <!--link1-->
-      <td align="center"><a href="https://alerica.itch.io/brain-joint">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Alerica/Brain-Joint/tree/main">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
