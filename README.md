@@ -38,7 +38,6 @@
   <thead>
     <tr>
       <th width="50%" align="center"><a>Through The Woods</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Doodle Kitchen</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -46,21 +45,16 @@
       <td align="center">
         <img src="https://github.com/Alerica/Through-The-Woods/blob/main/Through%20The%20Woods%20Clip.gif" alt="1" style="width:100%;height:auto;">
       </td>
-      <td align="center">
-        <img src="https://github.com/Alerica/Doodle-Kitchen/blob/main/doodle_kitchen_clip.gif" alt="2" style="width:100%;height:auto;">
-      </td>
     </tr>
     <tr>
       <td valign="text-top">A puzzle-based platformer with exploration elements, inspired by Red Riding Hood. Featuring a unique mechanic where players can control both Red Hood and the Wolf to solve puzzles and navigate the environment.</td> <!--desc-->
-      <td valign="text-top">Doodle Kitchen is a fun and fast-paced mini cooking game made under 48 hours for Micro Jam 37. Everything from the food to the art is drawn from scratch in a charming doodle style (except for the music). Just grab, cook, and enjoy the chaos!</td> <!--desc-->
+      <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alerica/Through-The-Woods">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Alerica/Doodle-Kitchen">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Alerica/Through-The-Woods">Read More</a></td> <!--link1--><!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://alerica.itch.io/doodle-kitchen">Itch.io</a></td> <!--link2-->
+      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1--><!--link2-->
     </tr>
   </tbody>
 </table>
