@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Ricky Budianto</h1>
+<h1 align="center"> <a href="https://alerica.github.io/">Hi 👋, I'm Alexander Ricky Budianto</a></h1>
 <h3 align="center">Have huge passion for game development and a love for all things creative and artistic.</h3>
 
 ## **Latest Project**
