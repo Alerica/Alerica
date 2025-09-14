@@ -114,13 +114,96 @@
   </tbody>
 </table>
 
+## Other Project
+
+## 📂 Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tools / Language</th>
+    <th>Description</th>
+    <th>Date</th>
+    <th>Repository</th>
+  </tr>
+  
+  <tr>
+    <td><b>SE-Library-Management System</b></td>
+    <td>HTML, CSS, JavaScript</td>
+    <td>Web-based system for library book and member management.</td>
+    <td>24 Feb 2025</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td><b>Gardenia Store Management System</b></td>
+    <td>Java, MySQL</td>
+    <td>Inventory and item management system with database integration.</td>
+    <td>23 Dec 2024</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td><b>Fision</b></td>
+    <td>Kotlin, YOLOv8</td>
+    <td>Recipe finder mobile app powered by computer vision.</td>
+    <td>19 Dec 2024</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td><b>LnT Java Programming </b></td>
+    <td>Java (OOP, Swing, JDBC)</td>
+    <td>14-course program covering core and advanced Java fundamentals. Including mini project like memory game, audio player, etc.</td>
+    <td>Sep 2024</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td><b>Tamer Tales</b></td>
+    <td>C</td>
+    <td>Pokémon-inspired adventure RPG built from scratch.</td>
+    <td>May 2024</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td><b>Final Project BNCC</b></td>
+    <td>Laravel, MySQL, Bootstrap</td>
+    <td>Full e-commerce website with modern PHP framework and DB integration.</td>
+    <td>22 Dec 2023</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td><b>Mid Project BNCC</b></td>
+    <td>Laravel, PHP</td>
+    <td>Prototype website showcasing early Laravel and PHP development.</td>
+    <td>23 Jan 2023</td>
+    <td><a href="https://github.com/your-repo-link">
+      <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white"/>
+    </a></td>
+  </tr>
+</table>
+
 
 ## About me
 - 🌱 I’m currently learning **game development**, I'm also eager to learn anything.
 - 👨‍💻 All of my projects are available at [https://github.com/alerica](https://github.com/alerica)
 - 💬 Ask me about **Game development, anything**
 - 📫 How to reach me **alexander.ricky.b05@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
