@@ -23,12 +23,24 @@
       <td valign="text-top">Brain Joint was made under 48 hours for Micro Jam 38: Zombies. In Brain Joint, you run a cozy little burger joint in the middle of a zombie neighborhood. But don’t worry, these zombies are friendly (and very polite). They’re just a bit... hungry. The game ranked in the top 6 overall from 39 entries. </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alerica/Reikiban-The-DND-Tools">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Alerica/Brain-Joint/tree/main">Read More</a></td> <!--link2-->
+      <td align="center">
+        <a href="https://github.com/Alerica/Reikiban-The-DND-Tools">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link1-->
+      <td align="center">
+        <a href="https://github.com/Alerica/Brain-Joint/tree/main">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alerica/Reikiban-The-DND-Tools">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://itch.io/jam/micro-jam-038/results">Itch.io</a></td> <!--link2-->
+      <td align="center"></td> <!--link1-->
+      <td align="center">
+        <a href="https://alerica.itch.io/brain-joint">
+        <img src="https://img.shields.io/badge/Play%20Now-DC3545?style=for-the-badge&logoColor=white" alt="Play Now Button"/>
+        </a>
+      </td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -51,10 +63,14 @@
       <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alerica/Through-The-Woods">Read More</a></td> <!--link1--><!--link2-->
+      <td align="center">
+        <a href="https://github.com/Alerica/Through-The-Woods">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link1--><!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1--><!--link2-->
+      <td align="center"></td> <!--link1--><!--link2-->
     </tr>
   </tbody>
 </table>
@@ -80,12 +96,20 @@
       <td valign="text-top">Bullet Reign is a fast-paced top-down shooter with roguelike elements, where every battle is a fight for survival in a chaotic hell. Built as a personal project to explore and understand Scriptable Objects in Unity. </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alerica/Tiny-Towers">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Alerica/Bullet-Reign">Read More</a></td> <!--link2-->
+      <td align="center">
+        <a href="https://github.com/Alerica/Tiny-Towers">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link1-->
+      <td align="center">
+        <a href="https://github.com/Alerica/Bullet-Reign">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link1-->
-      <td align="center"><a href="https://unity.com/download">Made with Unity</a></td> <!--link2-->
+      <td align="center"></td> <!--link1-->
+      <td align="center"></td> <!--link2-->
     </tr>
   </tbody>
 </table>
