@@ -11,6 +11,54 @@
 <table width="100%">
   <thead>
     <tr>
+      <th width="50%" align="center"><a>Zumi The Slime</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Greed Dungeon</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/ZumiGif/ZumiMain.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/adxze/adxze/blob/main/GDpic/Screenshot%202025-10-03%20at%2015.40.16.png" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.</td> <!--desc-->
+      <td valign="text-top">a strategic card based roguelike where players battle through increasingly difficult stages using a deck of powerful cards. Manage your energy, build devastating combos, and survive. Choose between retreating with your rewards or pushing deeper into the dungeon for greater treasures. Every decision matters.</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Alerica/Zumi-The-Slime">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link1-->
+      <td align="center">
+        <a href="https://github.com/Alerica/Greed-Dungeon">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
+      </td> <!--link2-->
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://alerica.itch.io/127-liminal-collective-student-zumi-the-slime">
+        <img src="https://img.shields.io/badge/Play%20Now-DC3545?style=for-the-badge&logoColor=white" alt="Play Now Button"/>
+        </a>
+      </td> <!--link1-->
+      <td align="center">
+        <a href="https://alerica.itch.io/greed-dungeon">
+        <img src="https://img.shields.io/badge/Play%20Now-DC3545?style=for-the-badge&logoColor=white" alt="Play Now Button"/>
+        </a>
+      </td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
+
+
+<table width="100%">
+  <thead>
+    <tr>
       <th width="50%" align="center"><a>Reikiban</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Brain Joint</a></th> <!--tittle-->
     </tr>
