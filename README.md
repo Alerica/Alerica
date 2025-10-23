@@ -158,7 +158,9 @@
     </td>
     <td>Roguelite deck-building game inspired by Slay the Spire, built for <b>Brackeys Jam 2025.2</b>.</td>
     <td>27 Aug 2025</td>
-    <td><img src="https://img.shields.io/badge/Private%20Repo-808080?style=for-the-badge&logo=lock&logoColor=white"/>
+    <td><a href="https://github.com/Alerica/Greed-Dungeon">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
        <a href="https://alerica.itch.io/greed-dungeon">
         <img src="https://img.shields.io/badge/Play%20Now-DC3545?style=for-the-badge&logoColor=white" alt="Play Now Button"/>
         </a>
@@ -189,7 +191,9 @@
     </td>
     <td>3rd-person shooter with <b>soulslike combat</b> and platforming elements.</td>
     <td>26 Jul 2025</td>
-    <td><img src="https://img.shields.io/badge/Private%20Repo-808080?style=for-the-badge&logo=lock&logoColor=white"/>
+    <td> <a href="https://github.com/Alerica/Zumi-The-Slime">
+        <img src="https://img.shields.io/badge/Documentation-007BFF?style=for-the-badge&logoColor=white" alt="Documentation Button"/>
+        </a>
       <a href="https://alerica.itch.io/127-liminal-collective-student-zumi-the-slime">
         <img src="https://img.shields.io/badge/Play%20Now-DC3545?style=for-the-badge&logoColor=white" alt="Play Now Button"/>
         </a>
